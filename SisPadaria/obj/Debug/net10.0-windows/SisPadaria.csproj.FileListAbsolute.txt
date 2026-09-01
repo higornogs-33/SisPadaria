@@ -1,0 +1,17 @@
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\bin\Debug\net10.0-windows\SisPadaria.exe
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\bin\Debug\net10.0-windows\SisPadaria.deps.json
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\bin\Debug\net10.0-windows\SisPadaria.runtimeconfig.json
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\bin\Debug\net10.0-windows\SisPadaria.dll
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\bin\Debug\net10.0-windows\SisPadaria.pdb
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.FrmPrincipal.resources
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.csproj.GenerateResource.cache
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.AssemblyInfoInputs.cache
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.AssemblyInfo.cs
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.csproj.CoreCompileInputs.cache
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.sourcelink.json
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.dll
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\refint\SisPadaria.dll
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.pdb
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\SisPadaria.genruntimeconfig.cache
+C:\Users\alunoetec\Desktop\Repeti-o_Project-B-riSahur\SisPadaria\SisPadaria\obj\Debug\net10.0-windows\ref\SisPadaria.dll
